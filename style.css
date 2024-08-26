@@ -1,0 +1,49 @@
+/* styles.css */
+
+* {
+    font-family: monospace;
+    font-size: 16px
+}
+
+.centered-div {
+    text-align: center
+}
+
+#home-page {
+    background-color: rgb(252, 248, 186);
+}
+
+#lasagna-page {
+    background-color: rgb(255, 170, 170);
+}
+
+#slow-cooker-pepper-steak-page {
+    background-color: rgb(186, 226, 255);
+}
+
+#berry-compote-page {
+    background-color: rgb(227, 201, 234);
+}
+
+#recipe-list {
+    font-size: 20px;
+    list-style: none
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+}
+
